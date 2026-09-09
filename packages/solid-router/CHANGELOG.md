@@ -1,5 +1,13 @@
 # @tanstack/solid-router
 
+## 1.170.32
+
+### Patch Changes
+
+- Updated dependencies [[`9871c06`](https://github.com/TanStack/router/commit/9871c0625806001d6bf373524821a00303438a91), [`0654c0a`](https://github.com/TanStack/router/commit/0654c0a1a427db24d9af13c1d6ad1217a588c0c9)]:
+  - @tanstack/router-core@1.171.29
+  - @tanstack/history@1.162.3
+
 ## 1.170.31
 
 ### Patch Changes
