@@ -1,5 +1,20 @@
 # @tanstack/start-plugin-core
 
+## 1.171.41
+
+### Patch Changes
+
+- [#8300](https://github.com/TanStack/router/pull/8300) [`49bcd4d`](https://github.com/TanStack/router/commit/49bcd4db743dba4a783d5533a42a0f97a5721292) - Refresh compatible build and runtime dependencies.
+
+- [#8261](https://github.com/TanStack/router/pull/8261) [`919c397`](https://github.com/TanStack/router/commit/919c3971493374cccc963e75b9b2a4e98ebf878a) - Avoid unused build indexes and skip CSS content capture when inline CSS is disabled in Vite and Rsbuild.
+
+- Updated dependencies [[`49bcd4d`](https://github.com/TanStack/router/commit/49bcd4db743dba4a783d5533a42a0f97a5721292), [`9871c06`](https://github.com/TanStack/router/commit/9871c0625806001d6bf373524821a00303438a91), [`0654c0a`](https://github.com/TanStack/router/commit/0654c0a1a427db24d9af13c1d6ad1217a588c0c9)]:
+  - @tanstack/router-plugin@1.168.37
+  - @tanstack/router-generator@1.167.35
+  - @tanstack/router-utils@1.162.3
+  - @tanstack/router-core@1.171.29
+  - @tanstack/start-server-core@1.169.33
+
 ## 1.171.40
 
 ### Patch Changes

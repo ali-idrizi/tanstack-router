@@ -1,5 +1,15 @@
 # @tanstack/react-router
 
+## 1.170.34
+
+### Patch Changes
+
+- [#8279](https://github.com/TanStack/router/pull/8279) [`aee42c6`](https://github.com/TanStack/router/commit/aee42c6b641d8e919bfed9e0f04bb1b72092f3a6) - Avoid allocating event-handler arrays and wrapper functions for links without user-supplied event handlers.
+
+- Updated dependencies [[`9871c06`](https://github.com/TanStack/router/commit/9871c0625806001d6bf373524821a00303438a91), [`0654c0a`](https://github.com/TanStack/router/commit/0654c0a1a427db24d9af13c1d6ad1217a588c0c9)]:
+  - @tanstack/router-core@1.171.29
+  - @tanstack/history@1.162.3
+
 ## 1.170.33
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @tanstack/history
 
+## 1.162.3
+
+### Patch Changes
+
+- [#8287](https://github.com/TanStack/router/pull/8287) [`0654c0a`](https://github.com/TanStack/router/commit/0654c0a1a427db24d9af13c1d6ad1217a588c0c9) - Use full-document navigation when an output rewrite produces a cross-origin destination, including the public URL of a route mask.
+
+  Respect registered history blockers during document navigation, passing history locations and the requested push or replace action.
+
 ## 1.162.2
 
 ### Patch Changes

@@ -1,5 +1,18 @@
 # @tanstack/router-core
 
+## 1.171.29
+
+### Patch Changes
+
+- [#8288](https://github.com/TanStack/router/pull/8288) [`9871c06`](https://github.com/TanStack/router/commit/9871c0625806001d6bf373524821a00303438a91) - Reduce cache maintenance work during navigation by indexing incoming match IDs once per commit.
+
+- [#8287](https://github.com/TanStack/router/pull/8287) [`0654c0a`](https://github.com/TanStack/router/commit/0654c0a1a427db24d9af13c1d6ad1217a588c0c9) - Use full-document navigation when an output rewrite produces a cross-origin destination, including the public URL of a route mask.
+
+  Respect registered history blockers during document navigation, passing history locations and the requested push or replace action.
+
+- Updated dependencies [[`0654c0a`](https://github.com/TanStack/router/commit/0654c0a1a427db24d9af13c1d6ad1217a588c0c9)]:
+  - @tanstack/history@1.162.3
+
 ## 1.171.28
 
 ### Patch Changes
